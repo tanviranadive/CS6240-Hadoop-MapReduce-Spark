@@ -1,0 +1,16 @@
+This is the readme for HW5.
+
+There are two separate programs for this homework.
+
+Under this folder path there are 2 folders:
+PageRank -> project for the Row-by-Col approach
+
+PageRank_Col_by_Row -> project for the col-by-row approach
+
+To execute, import the corresponding project into eclipse or similar IDE as a Maven project.
+
+The job takes two arguments as input:
+The input directory path and the output directory path.
+
+To run the program, please give the corresponding path as arguments to the program.
+

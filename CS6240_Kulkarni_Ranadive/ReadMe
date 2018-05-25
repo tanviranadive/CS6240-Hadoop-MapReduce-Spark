@@ -1,0 +1,11 @@
+The source code for this Project is under the folder CS6240_Kulkarni_Ranadive/SourceCode.
+
+To run the program locally, import the project Clasification as a Scala Project and run the program TrainingAndValidation.scala. 
+The input to this program is training folder, validation data folder, model Output file name and accuracy Output file name.
+
+Then run the program Prediction.scala with input as the test data folder, model folder generated in previous program and an output folder name.
+
+To run on AWS, use the MakeFile provided inside Classification folder.
+The build.sbt file is provided inside the folder Classification.
+Using the build.sbt and makefile create a jar for the program which can be uploaded and run on AWS.
+
